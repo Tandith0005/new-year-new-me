@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans';
+}
+/* start */
+.banner{
+    display: flex;
+    position: relative;
+}
+.banner-img{
+    width: 1347px;
+}
+/* banner texts */
+.banner-All-Text{
+    position: absolute;
+    top: 200px;
+    right: 150px;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    color:  #FFFFFF;
+    white-space: pre-line;
+    
+}
+.banner-description{
+    font-size: 16px;
+    color:  #FFFFFF;
+    white-space: pre-line;
+    
+}
+.banner-btn{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 63px;
+    margin-left: 250px;
+}
+/* article start */
+.first-article{
+    margin: 131px 200px 130px 200px;
+    display: flex;
+    justify-content: center;align-items: center;
+}
+.person-img img{
+    width: 500px;
+    margin-right: 50px;
+}
+.person-text-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.person-text-description{
+    color: #444343;
+    margin-top: 24px;
+}
+.check-talk{
+    margin-top: 16px;
+    color: #444343;
+}
+.fa-check{
+    margin-bottom: 8px;
+    color: greenyellow;
+    font-size: 24px;
+    margin-right: 14px;
+}
+/* second article start */
+.second-article{
+    margin: 131px 50px 130px 50px;
+}
+.second-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.All-plans{
+    display: flex;
+    justify-content: center;align-items: center;
+    gap: 75px;
+}
+.WD,.JS,.SH,.EC{
+    text-align: center;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.plan-2-title{
+    color: #737272;
+    margin-top: 16px;
+    font-size: 25px;
+}
+/* third article */
+.third-article{
+    margin: 130px 230px 130px 230px;
+}
+
+
+
+
+
